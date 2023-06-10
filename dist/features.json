@@ -1,0 +1,66 @@
+{
+    "features": [
+        {
+            "header": "Plan and manage projects effortlessly",
+            "tagline": "Plan better.",
+            "section": "PLAN"
+        },
+        {
+            "header": "Power your design with neural networks",
+            "tagline": "Design smarter.",
+            "section": "Design"
+        },
+        {
+            "header": "Use plain simple English to write tests",
+            "tagline": "Write faster.",
+            "section": "Develop"
+        },
+        {
+            "header": "Run Tests on Cloud",
+            "tagline": "Run anywhere.",
+            "section": "Run"
+        },
+        {
+            "header": "Access Real-time Reports in your browser",
+            "tagline": "Respond quicker.",
+            "section": "Report"
+        },
+        {
+            "header": "Integrate with your favourite tools",
+            "tagline": "Integrate easier.",
+            "section": "Integrate"
+        }     
+    ],
+    "benefits": [
+        {
+            "header": "Accelerate Tester Productivity."
+        },
+        {
+            "header": "Reduce Time to Market."
+        },
+        {
+            "header": "Optimize Cost of Quality."
+        }
+    ],
+    "branding": {
+        "name": "Sepoy",
+        "tagline": "Test Assistant with Super Powers",
+        "header": "Get started with Web Test Automation in minutes.",
+        "hook": "For decades, Test Automation has been a wild-goose-chase with Cost of Quality shooting through the roof and RoI that is elusive. We are changing that with Sepoy."
+    },
+    "info": {
+        "name": "Sepoy",
+        "company": "Sepoy Labs",
+        "fullname": "Sepoy Labs Private Limited",
+        "country": "India",
+        "city": "Hyderabad",
+        "pincode": 500090,
+        "address": "3-19 /al /73 /1/2, Aakash Layout, Mallampet, Nizampet, Qutubullapur, Hyderabad",
+        "contactemail": "hello@sepoylabs.com",
+        "website": "https://sepoylabs.com",
+        "linkedin": "https://linkedin.com/company/sepoylabs",
+        "github": "https://github.com/sepoylabs"
+        
+    }
+    
+}
